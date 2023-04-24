@@ -1,0 +1,9 @@
+﻿  1001.c
+  1002.c
+  1003.c
+  1004.c
+  코드를 생성하고 있습니다...
+1002.obj : error LNK2005: main이(가) 1001.obj에 이미 정의되어 있습니다.
+1003.obj : error LNK2005: main이(가) 1001.obj에 이미 정의되어 있습니다.
+1004.obj : error LNK2005: main이(가) 1001.obj에 이미 정의되어 있습니다.
+C:\Users\user\c\codeup\CodeUp\CodeUp\x64\Debug\CodeUp.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
