@@ -58,16 +58,19 @@
       <Filter>소스 파일\출력</Filter>
     </ClCompile>
     <ClCompile Include="1010.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1011.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1012.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1013.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\입출력 및 연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="1014.c">
+      <Filter>소스 파일\입출력 및 연산자</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
