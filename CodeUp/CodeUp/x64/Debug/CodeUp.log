@@ -5,5 +5,21 @@
   1005.c
   1006.c
   1007.c
+  1008.c
+  1101.c
+  1102.c
+  1103.c
+  1106.c
   코드를 생성하고 있습니다...
-  CodeUp.vcxproj -> C:\Users\user\c\codeup\CodeUp\CodeUp\x64\Debug\CodeUp.exe
+1002.obj : error LNK2005: main이(가) 1001.obj에 이미 정의되어 있습니다.
+1003.obj : error LNK2005: main이(가) 1001.obj에 이미 정의되어 있습니다.
+1004.obj : error LNK2005: main이(가) 1001.obj에 이미 정의되어 있습니다.
+1005.obj : error LNK2005: main이(가) 1001.obj에 이미 정의되어 있습니다.
+1006.obj : error LNK2005: main이(가) 1001.obj에 이미 정의되어 있습니다.
+1007.obj : error LNK2005: main이(가) 1001.obj에 이미 정의되어 있습니다.
+1008.obj : error LNK2005: main이(가) 1001.obj에 이미 정의되어 있습니다.
+1101.obj : error LNK2005: main이(가) 1001.obj에 이미 정의되어 있습니다.
+1102.obj : error LNK2005: main이(가) 1001.obj에 이미 정의되어 있습니다.
+1103.obj : error LNK2005: main이(가) 1001.obj에 이미 정의되어 있습니다.
+1106.obj : error LNK2005: main이(가) 1001.obj에 이미 정의되어 있습니다.
+C:\Users\user\c\codeup\CodeUp\CodeUp\x64\Debug\CodeUp.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

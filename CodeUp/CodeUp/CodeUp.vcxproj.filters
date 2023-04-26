@@ -13,42 +13,51 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\출력">
+      <UniqueIdentifier>{a87c4eed-0b5e-4282-9862-22b8a37ea8f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\입출력 및 연산자">
+      <UniqueIdentifier>{58d303f3-350b-4334-81ea-2babe9e87214}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1001.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\출력</Filter>
     </ClCompile>
     <ClCompile Include="1002.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\출력</Filter>
     </ClCompile>
     <ClCompile Include="1003.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\출력</Filter>
     </ClCompile>
     <ClCompile Include="1004.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\출력</Filter>
     </ClCompile>
     <ClCompile Include="1005.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\출력</Filter>
     </ClCompile>
     <ClCompile Include="1006.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\출력</Filter>
     </ClCompile>
     <ClCompile Include="1007.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\출력</Filter>
     </ClCompile>
     <ClCompile Include="1008.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\출력</Filter>
     </ClCompile>
     <ClCompile Include="1101.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\출력</Filter>
     </ClCompile>
     <ClCompile Include="1102.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\출력</Filter>
     </ClCompile>
     <ClCompile Include="1103.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\출력</Filter>
     </ClCompile>
     <ClCompile Include="1106.c">
+      <Filter>소스 파일\출력</Filter>
+    </ClCompile>
+    <ClCompile Include="1010.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
