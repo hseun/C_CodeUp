@@ -66,5 +66,8 @@
     <ClCompile Include="1012.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1013.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
