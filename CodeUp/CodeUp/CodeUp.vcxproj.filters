@@ -91,16 +91,19 @@
       <Filter>소스 파일\입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1021.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1022.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1023.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1024.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\입출력 및 연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="1025.c">
+      <Filter>소스 파일\입출력 및 연산자</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
