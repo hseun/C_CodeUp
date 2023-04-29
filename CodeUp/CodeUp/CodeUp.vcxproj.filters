@@ -105,17 +105,20 @@
     <ClCompile Include="1025.c">
       <Filter>소스 파일\2.입출력 및 연산자</Filter>
     </ClCompile>
+    <ClCompile Include="1030.c">
+      <Filter>소스 파일\2.입출력 및 연산자</Filter>
+    </ClCompile>
     <ClCompile Include="1026.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2.입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1027.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2.입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1028.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2.입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1029.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2.입출력 및 연산자</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
