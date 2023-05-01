@@ -121,16 +121,19 @@
       <Filter>소스 파일\2.입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1031.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2.입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1032.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2.입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1033.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2.입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1034.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2.입출력 및 연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="1035.c">
+      <Filter>소스 파일\2.입출력 및 연산자</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
