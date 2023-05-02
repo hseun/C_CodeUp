@@ -164,6 +164,7 @@
     <ClCompile Include="1037.c" />
     <ClCompile Include="1038.c" />
     <ClCompile Include="1039.c" />
+    <ClCompile Include="1040.c" />
     <ClCompile Include="1101.c" />
     <ClCompile Include="1102.c" />
     <ClCompile Include="1103.c" />
