@@ -150,5 +150,8 @@
     <ClCompile Include="1040.c">
       <Filter>소스 파일\2.입출력 및 연산자</Filter>
     </ClCompile>
+    <ClCompile Include="1041.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
