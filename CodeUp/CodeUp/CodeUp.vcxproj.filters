@@ -241,18 +241,21 @@
       <Filter>소스 파일\2.입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1114.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2.입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1115.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2.입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1116.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2.입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1117.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2.입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1118.c">
+      <Filter>소스 파일\2.입출력 및 연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="1119.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
