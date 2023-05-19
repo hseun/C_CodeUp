@@ -209,6 +209,7 @@
     <ClCompile Include="1121.c" />
     <ClCompile Include="1122.c" />
     <ClCompile Include="1123.c" />
+    <ClCompile Include="1125.c" />
     <ClCompile Include="first.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
