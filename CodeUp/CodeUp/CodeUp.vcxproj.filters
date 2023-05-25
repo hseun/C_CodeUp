@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\2.입출력 및 연산자">
       <UniqueIdentifier>{58d303f3-350b-4334-81ea-2babe9e87214}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\3.if else">
+      <UniqueIdentifier>{5d63849e-478d-453f-9f9e-f93412b9bdd8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1001.c">
@@ -301,24 +304,27 @@
       <Filter>소스 파일\2.입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1143.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2.입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1144.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2.입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1147.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2.입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1148.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2.입출력 및 연산자</Filter>
     </ClCompile>
     <ClCompile Include="1149.c">
+      <Filter>소스 파일\2.입출력 및 연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="1065.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1150.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2.입출력 및 연산자</Filter>
     </None>
   </ItemGroup>
 </Project>
