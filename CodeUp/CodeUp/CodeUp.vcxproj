@@ -264,6 +264,7 @@
     <ClCompile Include="1210.c" />
     <ClCompile Include="1212-1.c" />
     <ClCompile Include="1212-2.c" />
+    <ClCompile Include="1214.c" />
     <ClCompile Include="first.c" />
   </ItemGroup>
   <ItemGroup>
