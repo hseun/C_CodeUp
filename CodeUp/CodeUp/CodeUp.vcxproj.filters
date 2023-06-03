@@ -394,18 +394,21 @@
       <Filter>소스 파일\3.if else</Filter>
     </ClCompile>
     <ClCompile Include="1170.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\3.if else</Filter>
     </ClCompile>
     <ClCompile Include="1171.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\3.if else</Filter>
     </ClCompile>
     <ClCompile Include="1172.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\3.if else</Filter>
     </ClCompile>
     <ClCompile Include="1173.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\3.if else</Filter>
     </ClCompile>
     <ClCompile Include="1180.c">
+      <Filter>소스 파일\3.if else</Filter>
+    </ClCompile>
+    <ClCompile Include="1201.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
