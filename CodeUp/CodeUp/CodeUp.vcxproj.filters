@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\3.if else">
       <UniqueIdentifier>{5d63849e-478d-453f-9f9e-f93412b9bdd8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\4.단순 반복문">
+      <UniqueIdentifier>{74bdf1c8-a306-46da-9471-1626da225f6f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1001.c">
@@ -457,15 +460,18 @@
       <Filter>소스 파일\3.if else</Filter>
     </ClCompile>
     <ClCompile Include="1228.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\3.if else</Filter>
     </ClCompile>
     <ClCompile Include="1229.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\3.if else</Filter>
     </ClCompile>
     <ClCompile Include="1230.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\3.if else</Filter>
     </ClCompile>
     <ClCompile Include="1231.c">
+      <Filter>소스 파일\3.if else</Filter>
+    </ClCompile>
+    <ClCompile Include="1071.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
