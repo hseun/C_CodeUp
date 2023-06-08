@@ -203,6 +203,7 @@
     <ClCompile Include="1075.c" />
     <ClCompile Include="1076.c" />
     <ClCompile Include="1077.c" />
+    <ClCompile Include="1078.c" />
     <ClCompile Include="1085.c" />
     <ClCompile Include="1086.c" />
     <ClCompile Include="1101.c" />
