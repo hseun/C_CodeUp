@@ -507,6 +507,9 @@
     <ClCompile Include="1080.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1083.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1150.c">
