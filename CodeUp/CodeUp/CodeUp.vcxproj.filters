@@ -541,21 +541,24 @@
       <Filter>소스 파일\4.단순 반복문</Filter>
     </ClCompile>
     <ClCompile Include="1255.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\4.단순 반복문</Filter>
     </ClCompile>
     <ClCompile Include="1256.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\4.단순 반복문</Filter>
     </ClCompile>
     <ClCompile Include="1257-1.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\4.단순 반복문</Filter>
     </ClCompile>
     <ClCompile Include="1257-2.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\4.단순 반복문</Filter>
     </ClCompile>
     <ClCompile Include="1258.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\4.단순 반복문</Filter>
     </ClCompile>
     <ClCompile Include="1259.c">
+      <Filter>소스 파일\4.단순 반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="1260.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
