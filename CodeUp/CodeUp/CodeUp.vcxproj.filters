@@ -574,18 +574,21 @@
       <Filter>소스 파일\4.단순 반복문</Filter>
     </ClCompile>
     <ClCompile Include="1268.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\4.단순 반복문</Filter>
     </ClCompile>
     <ClCompile Include="1269.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\4.단순 반복문</Filter>
     </ClCompile>
     <ClCompile Include="1270.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\4.단순 반복문</Filter>
     </ClCompile>
     <ClCompile Include="1271.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\4.단순 반복문</Filter>
     </ClCompile>
     <ClCompile Include="1272.c">
+      <Filter>소스 파일\4.단순 반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="1273.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
