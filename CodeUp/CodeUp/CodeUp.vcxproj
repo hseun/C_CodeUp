@@ -320,6 +320,7 @@
     <ClCompile Include="1277.c" />
     <ClCompile Include="1278.c" />
     <ClCompile Include="1279.c" />
+    <ClCompile Include="1280.c" />
     <ClCompile Include="first.c" />
   </ItemGroup>
   <ItemGroup>
