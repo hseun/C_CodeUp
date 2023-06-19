@@ -615,6 +615,9 @@
     <ClCompile Include="1281.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1282.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1150.c">
