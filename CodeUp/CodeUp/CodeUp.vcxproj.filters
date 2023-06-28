@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\4-1.단순 반복문">
       <UniqueIdentifier>{74bdf1c8-a306-46da-9471-1626da225f6f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\4-2.중첩 반복문">
+      <UniqueIdentifier>{aa3b354d-7a75-4a7d-967e-ea3b1b8108cb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1001.c">
@@ -641,6 +644,9 @@
     </ClCompile>
     <ClCompile Include="1675.c">
       <Filter>소스 파일\4-1.단순 반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="1081.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
