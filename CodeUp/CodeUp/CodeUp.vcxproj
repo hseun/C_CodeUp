@@ -335,6 +335,7 @@
     <ClCompile Include="1295.c" />
     <ClCompile Include="1351.c" />
     <ClCompile Include="1352.c" />
+    <ClCompile Include="1353.c" />
     <ClCompile Include="1675.c" />
     <ClCompile Include="first.c" />
   </ItemGroup>

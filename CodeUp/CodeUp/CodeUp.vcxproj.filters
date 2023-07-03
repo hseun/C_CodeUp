@@ -646,18 +646,21 @@
       <Filter>소스 파일\4-1.단순 반복문</Filter>
     </ClCompile>
     <ClCompile Include="1081.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\4-2.중첩 반복문</Filter>
     </ClCompile>
     <ClCompile Include="1082.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\4-2.중첩 반복문</Filter>
     </ClCompile>
     <ClCompile Include="1084.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\4-2.중첩 반복문</Filter>
     </ClCompile>
     <ClCompile Include="1351.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\4-2.중첩 반복문</Filter>
     </ClCompile>
     <ClCompile Include="1352.c">
+      <Filter>소스 파일\4-2.중첩 반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="1353.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
